@@ -1,0 +1,9 @@
+node_modules/
+dist/
+data/spool.db
+data/spool.db-shm
+data/spool.db-wal
+data/uploads/*
+!data/uploads/.gitkeep
+.idea/
+*.iml
