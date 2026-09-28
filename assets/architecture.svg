@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-label="Spool Music Player architecture">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#7c5cff"/><stop offset="1" stop-color="#27d3c2"/></linearGradient></defs>
+<rect width="1200" height="430" rx="28" fill="#0d1222"/>
+<text x="60" y="62" fill="#fff" font-family="Arial,sans-serif" font-size="28" font-weight="700">Spool Architecture</text>
+<g font-family="Arial,sans-serif">
+<rect x="60" y="105" width="300" height="230" rx="20" fill="#171d31" stroke="#343d5c"/>
+<text x="90" y="145" fill="#fff" font-size="22" font-weight="700">React + Vite</text>
+<text x="90" y="185" fill="#aab2c8" font-size="17">Player UI</text><text x="90" y="215" fill="#aab2c8" font-size="17">Library &amp; Search</text><text x="90" y="245" fill="#aab2c8" font-size="17">Playlists &amp; Favorites</text><text x="90" y="275" fill="#aab2c8" font-size="17">Lyrics &amp; Themes</text>
+<rect x="450" y="105" width="300" height="230" rx="20" fill="#171d31" stroke="#343d5c"/>
+<text x="480" y="145" fill="#fff" font-size="22" font-weight="700">Node.js API</text>
+<text x="480" y="185" fill="#aab2c8" font-size="17">Media routes</text><text x="480" y="215" fill="#aab2c8" font-size="17">Uploads &amp; range requests</text><text x="480" y="245" fill="#aab2c8" font-size="17">Metadata / lyrics</text><text x="480" y="275" fill="#aab2c8" font-size="17">URL validation</text>
+<rect x="840" y="105" width="300" height="230" rx="20" fill="#171d31" stroke="#343d5c"/>
+<text x="870" y="145" fill="#fff" font-size="22" font-weight="700">SQLite + Files</text>
+<text x="870" y="185" fill="#aab2c8" font-size="17">Media metadata</text><text x="870" y="215" fill="#aab2c8" font-size="17">Application state</text><text x="870" y="245" fill="#aab2c8" font-size="17">Local uploads</text><text x="870" y="275" fill="#aab2c8" font-size="17">Persistent preferences</text>
+</g>
+<g stroke="url(#g)" stroke-width="5" fill="none"><path d="M360 220h90"/><path d="M750 220h90"/></g>
+<g fill="#27d3c2"><path d="M445 220l-18-12v24z"/><path d="M835 220l-18-12v24z"/></g>
+</svg>
