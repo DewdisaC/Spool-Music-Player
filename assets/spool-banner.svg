@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+<title id="title">Spool Music Player</title><desc id="desc">Professional project banner for Spool Music Player by Chanul Dewdisa</desc>
+<defs>
+<linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#171b36"/></linearGradient>
+<linearGradient id="accent" x1="0" x2="1"><stop offset="0" stop-color="#7c5cff"/><stop offset="1" stop-color="#27d3c2"/></linearGradient>
+</defs>
+<rect width="1600" height="520" rx="32" fill="url(#bg)"/>
+<circle cx="1340" cy="80" r="260" fill="#7c5cff" opacity=".12"/>
+<circle cx="1480" cy="390" r="300" fill="#27d3c2" opacity=".08"/>
+<g transform="translate(120 135)">
+<circle cx="105" cy="105" r="105" fill="url(#accent)"/>
+<circle cx="105" cy="105" r="42" fill="#0b1020"/>
+<circle cx="105" cy="105" r="13" fill="#f7f8ff"/>
+<path d="M105 24v162M24 105h162" stroke="#f7f8ff" stroke-width="5" opacity=".55"/>
+</g>
+<text x="370" y="190" fill="#f7f8ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="78" font-weight="800">Spool</text>
+<text x="370" y="260" fill="#b9c0d4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34">Music Player</text>
+<rect x="372" y="300" width="480" height="5" rx="3" fill="url(#accent)"/>
+<text x="370" y="350" fill="#8f98b2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22">Full-stack • Local-first • Media • Lyrics • Playlists</text>
+<text x="370" y="410" fill="#707a96" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">Built by Chanul Dewdisa</text>
+</svg>
