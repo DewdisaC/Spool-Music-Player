@@ -1,7 +1,13 @@
 {
   "name": "spool-music-player",
-  "private": true,
+  "private": false,
   "version": "4.0.0",
+  "description": "A full-stack local-first music and media player built with React, Vite, Node.js and SQLite.",
+  "author": {
+    "name": "Chanul Dewdisa",
+    "url": "https://github.com/DewdisaC"
+  },
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "node dev-runner.js",
